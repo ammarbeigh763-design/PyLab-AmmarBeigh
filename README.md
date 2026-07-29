@@ -11,7 +11,7 @@ This is a simple calculator project built using Python that can perform basic ar
 ## ▶️ How to Run
 
 1. Clone the repository:
-git clone https://github.com/ammarbeigh763/calculator.git
+git clone https://github.com/ammarbeigh763-design/calculator.git
 
 2. Navigate to the folder:
 cd calculator
