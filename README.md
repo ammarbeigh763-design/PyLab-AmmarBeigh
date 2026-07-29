@@ -14,7 +14,7 @@ This is a simple calculator project built using Python that can perform basic ar
 git clone https://github.com/ammarbeigh763-design/PyLab-AmmarBeigh
 
 2. Navigate to the folder:
-cd calculator
+01_calculator.py
 
 3. Run the program:
 python calculator.py
